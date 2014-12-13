@@ -19,7 +19,7 @@ setup(
         keywords='',
         author=u"Régis Behmo",
         author_email='regis@behmo.com',
-        url='https://github.com/regisb/spotify-onthego',
+        url='https://github.com/manu7691/spotify-onthego',
         license='MIT',
         packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
         include_package_data=True,
