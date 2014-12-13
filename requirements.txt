@@ -1,3 +1,4 @@
 gdata
 spotipy
 pafy
+eyed3
