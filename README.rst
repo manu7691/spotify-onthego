@@ -21,7 +21,7 @@ platform, you should create a virtualenv using python2::
 
 Install from Github::
 
-    pip install git+git://github.com/regisb/spotify-onthego.git
+    pip install git+git://github.com/manu7691/spotify-onthego.git
 
 If you wish to convert the downloaded files to mp3 format, you will need to
 install avconv::
